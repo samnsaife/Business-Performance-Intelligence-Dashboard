@@ -42,5 +42,11 @@ This project delivers an executive-level Business Intelligence solution to monit
 ## How to Run the Project
 
 ### Step 1: Install Requirements
+
 ```bash
 pip install -r requirements.txt
+```
+
+## Author
+
+Sami Noor Saifi
